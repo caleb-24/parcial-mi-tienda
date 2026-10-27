@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+expo-env.d.ts
+
+# Secretos: nunca subir el .env (sí va .env.example)
+.env
+.env*.local
+
+# macOS
+.DS_Store

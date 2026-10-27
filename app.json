@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Mi Tienda",
+    "slug": "parcial-mi-tienda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "mitienda",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen",
+      "expo-sqlite",
+      "expo-secure-store"
+    ]
+  }
+}
